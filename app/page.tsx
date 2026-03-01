@@ -1,16 +1,10 @@
-import {Button, Typography} from "@bezdenegsvarkinet/ui-library";
+import { Button, Typography } from '@bezdenegsvarkinet/ui-library';
 
 export default function Home() {
-  return (
-    <div className="">
-      <Button size={'56'}>
-        Click me
-      </Button>
-
-      <Typography size={'button/m/14'}>
-        Hello world!
-      </Typography>
-
-    </div>
-  );
+	return (
+		<div className=''>
+			<Typography>Hello, world!</Typography>
+			<Button>Click me</Button>
+		</div>
+	);
 }
