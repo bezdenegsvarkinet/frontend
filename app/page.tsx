@@ -10,6 +10,7 @@ export default function Home() {
       <Typography size={'button/m/14'}>
         Hello world!
       </Typography>
+
     </div>
   );
 }
