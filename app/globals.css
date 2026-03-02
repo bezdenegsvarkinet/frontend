@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "@bezdenegsvarkinet/ui-library/styles.css";
 
 :root {
   --background: #ffffff;
@@ -6,6 +7,46 @@
 }
 
 @theme inline {
+  --color-primary-blue-50: var(--color-primary-blue-50);
+  --color-primary-blue-100: var(--color-primary-blue-100);
+  --color-primary-blue-200: var(--color-primary-blue-200);
+  --color-primary-blue-300: var(--color-primary-blue-300);
+  --color-primary-blue-400: var(--color-primary-blue-400);
+  --color-primary-blue-500: var(--color-primary-blue-500);
+  --color-primary-blue-600: var(--color-primary-blue-600);
+  --color-primary-blue-700: var(--color-primary-blue-700);
+  --color-primary-blue-800: var(--color-primary-blue-800);
+  --color-primary-blue-900: var(--color-primary-blue-900);
+
+  --color-primary-neutral-50: var(--color-primary-neutral-50);
+  --color-primary-neutral-100: var(--color-primary-neutral-100);
+  --color-primary-neutral-200: var(--color-primary-neutral-200);
+  --color-primary-neutral-300: var(--color-primary-neutral-300);
+  --color-primary-neutral-400: var(--color-primary-neutral-400);
+  --color-primary-neutral-500: var(--color-primary-neutral-500);
+  --color-primary-neutral-600: var(--color-primary-neutral-600);
+  --color-primary-neutral-700: var(--color-primary-neutral-700);
+  --color-primary-neutral-800: var(--color-primary-neutral-800);
+
+  --color-state-error-100: var(--color-state-error-100);
+  --color-state-error-200: var(--color-state-error-200);
+  --color-state-error-500: var(--color-state-error-500);
+  --color-state-error-800: var(--color-state-error-800);
+
+  --color-state-success-100: var(--color-state-success-100);
+  --color-state-success-200: var(--color-state-success-200);
+  --color-state-success-500: var(--color-state-success-500);
+  --color-state-success-800: var(--color-state-success-800);
+
+  --color-state-warning-100: var(--color-state-warning-100);
+  --color-state-warning-500: var(--color-state-warning-500);
+  --color-state-warning-800: var(--color-state-warning-800);
+
+  --color-state-info-100: var(--color-state-info-100);
+  --color-state-info-200: var(--color-state-info-200);
+  --color-state-info-500: var(--color-state-info-500);
+  --color-state-info-800: var(--color-state-info-800);
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
