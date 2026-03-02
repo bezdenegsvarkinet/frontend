@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@bezdenegsvarkinet/ui-library':
-        specifier: ^1.2.0
-        version: 1.2.0(class-variance-authority@0.7.1)(clsx@2.1.1)(lucide-react@0.575.0(react@19.2.3))(radix-ui@1.4.3(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(tailwind-merge@3.5.0)(tailwindcss@4.2.1)
+        specifier: ^1.3.1
+        version: 1.3.1(class-variance-authority@0.7.1)(clsx@2.1.1)(lucide-react@0.575.0(react@19.2.3))(radix-ui@1.4.3(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(tailwind-merge@3.5.0)(tailwindcss@4.2.1)
       next:
         specifier: 16.1.6
         version: 16.1.6(@babel/core@7.29.0)(babel-plugin-react-compiler@1.0.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -122,8 +122,8 @@ packages:
     resolution: {integrity: sha512-LwdZHpScM4Qz8Xw2iKSzS+cfglZzJGvofQICy7W7v4caru4EaAmyUuO6BGrbyQ2mYV11W0U8j5mBhd14dd3B0A==}
     engines: {node: '>=6.9.0'}
 
-  '@bezdenegsvarkinet/ui-library@1.2.0':
-    resolution: {integrity: sha512-yT150X280LD41g9hYVmFvObLAq/0/dpCZgHmsNGQCn46JENn19XXvPfoFBQnxKpdFZ71jJA6nGGr/t7M3J56Rw==}
+  '@bezdenegsvarkinet/ui-library@1.3.1':
+    resolution: {integrity: sha512-dMr5W4HbBLyDgC/2RYlIhulVcUGUeqxGMK0KVmXsU/E1oWhOMXrJ3qGMlnsVr3ieY+4lkAOi8BEyR577A8pdyA==}
     peerDependencies:
       class-variance-authority: ^0.7.1
       clsx: ^2.1.1
@@ -2879,7 +2879,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.28.5
 
-  '@bezdenegsvarkinet/ui-library@1.2.0(class-variance-authority@0.7.1)(clsx@2.1.1)(lucide-react@0.575.0(react@19.2.3))(radix-ui@1.4.3(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(tailwind-merge@3.5.0)(tailwindcss@4.2.1)':
+  '@bezdenegsvarkinet/ui-library@1.3.1(class-variance-authority@0.7.1)(clsx@2.1.1)(lucide-react@0.575.0(react@19.2.3))(radix-ui@1.4.3(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.3(react@19.2.3))(react@19.2.3))(react-dom@19.2.3(react@19.2.3))(react@19.2.3)(tailwind-merge@3.5.0)(tailwindcss@4.2.1)':
     dependencies:
       class-variance-authority: 0.7.1
       clsx: 2.1.1
